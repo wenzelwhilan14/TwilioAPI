@@ -75,6 +75,7 @@ Para usar Twilio en **modo de prueba**, debes:
 1. **Crear una cuenta en Twilio** en [twilio.com](https://www.twilio.com/).
 2. **Verificar un número de teléfono** desde la consola de Twilio.
 3. **Solo podrás llamar y enviar SMS a números registrados en Twilio** hasta que actualices tu cuenta a producción.
+4. **Cuando realizes un llamada en modo de prueba escucharas un mensaje predeterminado** presiona el boton 1 para escuchar tu mensaje.
 
 ---
 
